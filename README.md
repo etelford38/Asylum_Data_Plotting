@@ -21,7 +21,7 @@ There are 5 python files in this project that perform the following tasks:
 * Both current preamplifier channels are plotted.
 2) ["Asylum_CAFM_FFT.py"](https://github.com/etelford38/Asylum_Data_Plotting/blob/main/Asylum_CAFM_FFT.py)
 * loads, plots, and fourier transforms conducting atomic force microscopy scans. 
-3) ["Asylum_FD_trace.py"]()
+3) ["Asylum_FD_trace.py"](https://github.com/etelford38/Asylum_Data_Plotting/blob/main/Asylum_FD_trace.py)
 * loads and plots force-distance curves obtaining during approach scans with conducting tips. 
 * Both current preamplifier channels are plotted.
 4) ["Asylum_IV_trace.py"]()

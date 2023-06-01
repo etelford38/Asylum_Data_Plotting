@@ -14,9 +14,9 @@ To run all included python files, the following packages are required (links are
 * matplotlib (https://anaconda.org/conda-forge/matplotlib)
 * opencv (https://anaconda.org/conda-forge/opencv)
 
-### There are 5 python files in this project that perform the following tasks:
-1) "Asylum_CAFM.py"
-        -load, plot, and line correct conducting atomic force microscopy scans. Both raw and analyzed plots are saved. Both current preamplifier channels are plotted.
+There are 5 python files in this project that perform the following tasks:
+### "Asylum_CAFM.py"
+* load, plot, and line correct conducting atomic force microscopy scans. Both raw and analyzed plots are saved. Both current preamplifier channels are plotted.
 3) "Asylum_CAFM_FFT.py"
         -load, plot, and fourier transforms conducting atomic force microscopy scans. 
 5) "Asylum_FD_trace.py"

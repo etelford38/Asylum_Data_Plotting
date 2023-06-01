@@ -27,7 +27,7 @@ There are 5 python files in this project that perform the following tasks:
 4) ["Asylum_IV_trace.py"](https://github.com/etelford38/Asylum_Data_Plotting/blob/main/Asylum_IV_trace.py)
 * loads and plots I-V curves. 
 * Both current preamplifier channels are plotted.
-5) ["Asylum_Tapping.py"]()
+5) ["Asylum_Tapping.py"](https://github.com/etelford38/Asylum_Data_Plotting/blob/main/Asylum_Tapping.py)
 * loads, plots, and line corrects tapping scans. 
 * Both raw and analyzed plots are saved.
 * Topography, Amplitude Error, and Phase are plotted.

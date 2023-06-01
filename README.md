@@ -7,12 +7,12 @@ All the included python files follow the general procedure:
 3) Run the python file. It will automatically create new folders containing plots of the raw and analyzed data.
 
 To run all included python files, the following packages are required (links are to anaconda installation information):
-*pathlib (https://anaconda.org/conda-forge/pathlib)
-*os (https://anaconda.org/jmcmurray/os)
-*igor (https://anaconda.org/conda-forge/igor)
-*numpy (https://anaconda.org/anaconda/numpy)
-*matplotlib (https://anaconda.org/conda-forge/matplotlib)
-*opencv (https://anaconda.org/conda-forge/opencv)
+* pathlib (https://anaconda.org/conda-forge/pathlib)
+* os (https://anaconda.org/jmcmurray/os)
+* igor (https://anaconda.org/conda-forge/igor)
+* numpy (https://anaconda.org/anaconda/numpy)
+* matplotlib (https://anaconda.org/conda-forge/matplotlib)
+* opencv (https://anaconda.org/conda-forge/opencv)
 
 There are 5 python files in this project that perform the following tasks:
 1) "Asylum_CAFM.py"

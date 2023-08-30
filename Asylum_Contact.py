@@ -106,8 +106,6 @@ for i,k in enumerate(names):
         label, dat= getData2D(dat)
         scansize=metaData['ScanSize'].split('@')[0]
         scane=str(len(metaData['ScanSize'].split('@'))-1)
-        # voltage=metaData['SurfaceVoltage'].split('@')[0]
-        # voltagee=str(len(metaData['SurfaceVoltage'].split('@'))-1)
         deflection=metaData['DeflectionSetpointVolts'].split('@')[0]
         deflectione=str(len(metaData['DeflectionSetpointVolts'].split('@'))-1)
         scanrate=metaData['ScanRate'].split('@')[0]
